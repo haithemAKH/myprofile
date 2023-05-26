@@ -1,0 +1,18 @@
+.App {
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f1f1f1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image:url("https://img.freepik.com/vecteurs-libre/modele-cadre-courbe-bleue_53876-116707.jpg?w=996&t=st=1685047192~exp=1685047792~hmac=ce6cbc82408b3f9ee78811d574f10b4ec69413e52f04241a028544553996f20c") ;
+}
+.pro{
+  margin-top: 10%;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+}
